@@ -18,3 +18,13 @@ pip install -r requirements.txt
 
 1. Add all the options into input.txt
 2. Run the Script
+
+## Examples
+
+- see example folder
+
+### Europe/World Solver
+
+- Takes 1 second
+- Copy from example folder into input.txt
+- Run the script
